@@ -1,60 +1,72 @@
 [
   {
+    "id": "656d38cc-ea3c-4b69-904a-e589231eeab8",
     "label": "Teenage Mutant Ninja Turtles Pizza Thrower Vehicle",
     "image": "ninja-turtle-pizza-thrower.jpg",
     "votes": 0
   },
   {
+    "id": "d0fd11da-a3c8-49fe-8d67-5bbec93fd530",
     "label": "X-Men Cyclops Action Figure",
     "image": "cyclops.jpg",
     "votes": 0
   },
   {
+    "id": "9b49246c-6b51-4a78-953d-4b02562f266e",
     "label": "Furby",
     "image": "furby.jpg",
     "votes": 0
   },
   {
+    "id": "81be53b3-6fe2-42d3-8a0a-5d43939ff6ca",
     "label": "Beast Wars - Optimus Prime",
     "image": "beast-wars.jpg",
     "votes": 0
   },
   {
+    "id": "3ab16a1a-d1a7-455d-85e8-435fd734ba2b",
     "label": "Transformers - Optimus Prime",
     "image": "classic-optimus.jpg",
     "votes": 0
   },
   {
+    "id": "6f034ad7-61c3-4b7b-a46e-5213300f1fbb",
     "label": "Bop It Extreme",
     "image": "bop-it-extreme.jpg",
     "votes": 0
   },
   {
+    "id": "553d416c-5234-4f7a-8343-7d14375f0d6d",
     "label": "Tamagotchi",
     "image": "tamagotchi.jpg",
     "votes": 0
   },
   {
+    "id": "8393040d-8a28-4cc2-ba73-27da8ff59497",
     "label": "Rock 'Em Sock 'Em",
     "image": "rock-em-sock-em.jpg",
     "votes": 0
   },
   {
+    "id": "eb8d2264-ba96-461d-8db1-75c712222272",
     "label": "Super Soaker",
     "image": "super-soaker.png",
     "votes": 0
   },
   {
+    "id": "8619a26c-ba59-4d95-8eba-fca879cb692f",
     "label": "Pokemon Cards",
     "image": "pokemon-cards.jpg",
     "votes": 0
   },
   {
+    "id": "70beae3c-c7bb-4416-955f-de2a063d3f85",
     "label": "Magic Mitt",
     "image": "magic-mitt.png",
     "votes": 0
   },
   {
+    "id": "3f5c4ccc-e5d2-479d-9184-122abe928ed8",
     "label": "Nerf Blaster",
     "image": "nerf-blaster.jpg"
   }

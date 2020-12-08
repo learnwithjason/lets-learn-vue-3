@@ -1,47 +1,58 @@
 [
   {
     "label": "Teenage Mutant Ninja Turtles Pizza Thrower Vehicle",
-    "image": "ninja-turtle-pizza-thrower.jpg"
+    "image": "ninja-turtle-pizza-thrower.jpg",
+    "votes": 0
   },
   {
     "label": "X-Men Cyclops Action Figure",
-    "image": "cyclops.jpg"
+    "image": "cyclops.jpg",
+    "votes": 0
   },
   {
     "label": "Furby",
-    "image": "furby.jpg"
+    "image": "furby.jpg",
+    "votes": 0
   },
   {
     "label": "Beast Wars - Optimus Prime",
-    "image": "beast-wars.jpg"
+    "image": "beast-wars.jpg",
+    "votes": 0
   },
   {
     "label": "Transformers - Optimus Prime",
-    "image": "classic-optimus.jpg"
+    "image": "classic-optimus.jpg",
+    "votes": 0
   },
   {
     "label": "Bop It Extreme",
-    "image": "bop-it-extreme.jpg"
+    "image": "bop-it-extreme.jpg",
+    "votes": 0
   },
   {
     "label": "Tamagotchi",
-    "image": "tamagotchi.jpg"
+    "image": "tamagotchi.jpg",
+    "votes": 0
   },
   {
     "label": "Rock 'Em Sock 'Em",
-    "image": "rock-em-sock-em.jpg"
+    "image": "rock-em-sock-em.jpg",
+    "votes": 0
   },
   {
     "label": "Super Soaker",
-    "image": "super-soaker.png"
+    "image": "super-soaker.png",
+    "votes": 0
   },
   {
     "label": "Pokemon Cards",
-    "image": "pokemon-cards.jpg"
+    "image": "pokemon-cards.jpg",
+    "votes": 0
   },
   {
     "label": "Magic Mitt",
-    "image": "magic-mitt.png"
+    "image": "magic-mitt.png",
+    "votes": 0
   },
   {
     "label": "Nerf Blaster",

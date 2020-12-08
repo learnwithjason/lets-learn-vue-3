@@ -33,10 +33,18 @@
   },
   {
     "label": "Super Soaker",
-    "image": "super-soaker.jpg"
+    "image": "super-soaker.png"
   },
   {
     "label": "Pokemon Cards",
     "image": "pokemon-cards.jpg"
+  },
+  {
+    "label": "Magic Mitt",
+    "image": "magic-mitt.png"
+  },
+  {
+    "label": "Nerf Blaster",
+    "image": "nerf-blaster.jpg"
   }
 ]
